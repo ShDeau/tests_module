@@ -4,8 +4,8 @@ A soon to be v module made to test and benchmark any and all function in v regar
 
 Roadmap (in no order) :
 - Vérifier la facilité d'utilisation en fonction des contextes
-- + de types
-  - + de types de base
+- plus de types
+  - plus de types de base
   - Lists
   - structs
   - sum types
